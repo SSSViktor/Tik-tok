@@ -87,3 +87,15 @@ span{
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+a:link{
+  color: #00f2ea;
+}
+
+a:hover{
+  color: #ff0050;
+}
+
+a:visited{
+  color: #ff0050;
+}
