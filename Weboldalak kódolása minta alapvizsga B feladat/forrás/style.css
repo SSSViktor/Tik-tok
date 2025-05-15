@@ -46,6 +46,7 @@ h1{
   text-align: center;
   font-size: 70px;
   margin-bottom: 30px;
+
 }
 
 h2{
@@ -62,4 +63,13 @@ p{
 
 span{
   color: #ff0050;
+}
+
+#TikTok{
+  color: white;
+  border: 10px solid black;
+  border-left-color: #00f2ea;
+  border-top-color: #00f2ea;
+  border-bottom-color: #ff0050;
+  border-right-color: #ff0050;
 }
